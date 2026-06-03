@@ -18,3 +18,17 @@ cd HW2TP
 pip install -r requirements.txt
 pytest
 ```
+
+
+#Как запустить?
+
+В терминале: 
+```bash
+cd HW2TP
+python3 task1.1.py
+```
+*команда python3 для мака, а для виндоус просто можно python
+
+
+
+
